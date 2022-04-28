@@ -1,0 +1,17 @@
+body {
+    background-color: #fee9cb;
+    color: #3c180c;
+}
+
+h1, h2 {
+    color: #f2592f;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    color: #90b328;
+}
